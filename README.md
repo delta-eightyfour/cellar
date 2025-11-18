@@ -1,7 +1,7 @@
-WELCOME TO THE CELLAR GIT-REPO!
-"Infinite Storage, Infinite Possibilites."
+#  WELCOME TO THE CELLAR GIT-REPO!
+# "Infinite Storage, Infinite Possibilites."
 
-DEPENDENCIES AND GUIDE LISTED BELLOW
+# DEPENDENCIES AND GUIDE LISTED BELLOW
 
 WHAT YA NEED:
 - Python (obviously)
@@ -53,5 +53,6 @@ Troubleshooting:
 
 Credit & License:
 This code was written by Delta84. Please give credit if you reuse it!
+
 
 
