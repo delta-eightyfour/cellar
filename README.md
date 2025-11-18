@@ -1,8 +1,7 @@
-# WRITTEN BY THE ONE AND ONLY DELTA84 HIMSELF, DONT SNATCH THE CODE WITHOUT CREDITING!
+WELCOME TO THE CELLAR GIT-REPO!
+"Infinite Storage, Infinite Possibilites."
 
-------------------------------------------
-EDITION U GOT: win64 (Windows 64 bit)
-------------------------------------------
+DEPENDENCIES AND GUIDE LISTED BELLOW
 
 WHAT YA NEED:
 - Python (obviously)
@@ -54,4 +53,5 @@ Troubleshooting:
 
 Credit & License:
 This code was written by Delta84. Please give credit if you reuse it!
+
 
