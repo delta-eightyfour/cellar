@@ -4,7 +4,8 @@
 DEPENDENCIES AND GUIDE LISTED BELLOW
 
 WHAT YA NEED:
-- Python (obviously)
+- Python
+- PowerShell
 - tk
 - pillow
 
@@ -12,7 +13,7 @@ WHAT YA NEED:
 
 Install Guide!
 1. Run The PS1 file! (`build-windows.ps1`)
-2. Say Y To The Prompt!
+2. Say Y (Yes) To The Prompt!
 3. Wait
 4. And ur done. exe file is in `C:\Users\user\directory\Cellar_V\dist\Cellar.exe`!
 
@@ -53,6 +54,7 @@ Troubleshooting:
 
 Credit & License:
 This code was written by Delta84. Please give credit if you reuse it!
+
 
 
 
