@@ -2,6 +2,7 @@
 
 First off, thanks for taking the time to contribute! 🎉  
 Cellar is licensed under the GNU GPLv3, and contributions help keep it strong, secure, and evolving.
+Cellar Is Currently Written In Guido van Rossum's Python And Microsoft PowerShell, But We DO PLAN to Move The Language To Java, JavaScript, Or C++
 
 ------------------------------------------
 
