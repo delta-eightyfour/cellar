@@ -30,7 +30,7 @@ Future roadmap includes file upload/download, replication across independent ser
 
 ------------------------------------------
 
-## Requirements
+## Current Requirements (THIS WILL CHANGE!!)
 - Python
 - tk
 - pillow
@@ -71,6 +71,7 @@ Missing modules at runtime? Edit Cellar.spec and add them to hiddenimports=[...]
 Need to include extra files? Add them to datas in Cellar.spec
 
 Force clean rebuild: python -m PyInstaller --clean Cellar.spec
+
 
 
 
