@@ -20,6 +20,8 @@ Future roadmap includes file upload/download, replication across independent ser
 
 [x] Windows build script with PyInstaller
 
+[ ] Use C++ Or Another PGL Instead of Python
+
 [ ] File upload/download to server
 
 [ ] Replication across multiple independent servers
@@ -71,6 +73,7 @@ Missing modules at runtime? Edit Cellar.spec and add them to hiddenimports=[...]
 Need to include extra files? Add them to datas in Cellar.spec
 
 Force clean rebuild: python -m PyInstaller --clean Cellar.spec
+
 
 
 
