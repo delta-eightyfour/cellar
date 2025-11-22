@@ -17,15 +17,10 @@ It currently provides login/account creation and builds into a standalone Window
 Future roadmap includes file upload/download, replication across independent servers, and entropy‑based encryption (Yes, we're using lava lamps. We took it from CloudFlare because why not).
 ------------------------------------------
 [x] Login GUI with account creation
-
 [x] Windows build script with PyInstaller
-
 [ ] File upload/download to server
-
 [ ] Replication across multiple independent servers
-
 [ ] Entropy‑based encryption 
-
 [ ] Hardened Debian server deployment
 ------------------------------------------
 
@@ -70,3 +65,4 @@ Missing modules at runtime? Edit Cellar.spec and add them to hiddenimports=[...]
 Need to include extra files? Add them to datas in Cellar.spec
 
 Force clean rebuild: python -m PyInstaller --clean Cellar.spec
+
