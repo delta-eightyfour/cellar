@@ -12,7 +12,7 @@ Pull requests are welcome! Please open an issue first to discuss major changes. 
 ------------------------------------------
 
 ## What is Cellar?
-Cellar is a (prototype) cloud storage app written in Python + Tkinter.  
+Cellar is a (prototype) cloud storage app written in Python + Tkinter.  (soon will be made in java or C++. contribs with these languages must be in THIS repo!!)
 It currently provides login/account creation and builds into a standalone Windows executable.  
 Future roadmap includes file upload/download, replication across independent servers, and entropy‑based encryption (Yes, we're using lava lamps. We took it from CloudFlare because why not).
 ------------------------------------------
@@ -71,5 +71,6 @@ Missing modules at runtime? Edit Cellar.spec and add them to hiddenimports=[...]
 Need to include extra files? Add them to datas in Cellar.spec
 
 Force clean rebuild: python -m PyInstaller --clean Cellar.spec
+
 
 
