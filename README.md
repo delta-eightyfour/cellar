@@ -3,6 +3,41 @@
 WRITTEN BY THE ONE AND ONLY DELTA84 HIMSELF.  
 DON’T SNATCH MY CODE WITHOUT CREDITING.
 ---
+🚫 Cellar Is Now on Indefinite Hiatus
+
+Hey everyone — Delta here.
+So… after thinking things through (a LOT), I’ve decided to put Cellar on an indefinite hiatus.
+
+Before anyone panics:
+No, the project isn’t “dead.”
+No, the repo isn’t going anywhere.
+And yes, it’s still GPLv3 because I’m not a monster.
+
+Cellar started as a fun idea — “the attic/cellar of the internet,” a place to stash massive drive backups during OS migrations. And honestly? I still love that vision.
+
+But right now, for safety reasons and general sanity, I need to pause development and step back to rethink how this thing should work long-term.
+
+What this means:
+
+⚠️ No new updates for a while.
+
+🧊 The repo stays up, untouched and open-source.
+
+🧠 I’m giving myself room to redesign the concept safely.
+
+📌 Future updates will be announced if/when they happen.
+
+I’m not quitting programming. I’m not abandoning the idea forever.
+I’m just being smart and not rushing something that needs more planning than I originally thought.
+
+Thanks to anyone who ever glanced at this project, starred it, or thought,
+“Hey, this kid might be onto something.”
+Y’all are cool.
+
+Stay tuned… maybe. 😄
+
+— Delta84
+---
 ACRONYM MEANINGS: "PGM" IS "PROGRAMMING LANGUAGE" IF YOU ARE WONDERING!
 ---
 
@@ -101,3 +136,4 @@ datas=[...]
 Force a clean rebuild:
 
 python -m PyInstaller --clean Cellar.spec
+
