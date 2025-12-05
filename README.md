@@ -3,7 +3,7 @@
 WRITTEN BY THE ONE AND ONLY DELTA84 HIMSELF.  
 DON’T SNATCH MY CODE WITHOUT CREDITING.
 ---
-🚫 Cellar Is Now on Indefinite Hiatus
+⚠ Cellar Is Now on Indefinite Hiatus
 
 Hey everyone — Delta here.
 So… after thinking things through (a LOT), I’ve decided to put Cellar on an indefinite hiatus.
@@ -19,13 +19,13 @@ But right now, for safety reasons and general sanity, I need to pause developmen
 
 What this means:
 
-⚠️ No new updates for a while.
+❌ No new updates for a LOONG while.
 
 🧊 The repo stays up, untouched and open-source.
 
 🧠 I’m giving myself room to redesign the concept safely.
 
-📌 Future updates will be announced if/when they happen.
+📢 Future updates will be announced if/when they happen.
 
 I’m not quitting programming. I’m not abandoning the idea forever.
 I’m just being smart and not rushing something that needs more planning than I originally thought.
@@ -34,9 +34,12 @@ Thanks to anyone who ever glanced at this project, starred it, or thought,
 “Hey, this kid might be onto something.”
 Y’all are cool.
 
-Stay tuned… maybe. 😄
+Stay tuned… maybe. 
 
 — Delta84
+---
+
+
 ---
 ACRONYM MEANINGS: "PGM" IS "PROGRAMMING LANGUAGE" IF YOU ARE WONDERING!
 ---
@@ -136,4 +139,5 @@ datas=[...]
 Force a clean rebuild:
 
 python -m PyInstaller --clean Cellar.spec
+
 
